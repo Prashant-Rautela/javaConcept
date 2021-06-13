@@ -23,3 +23,8 @@ go to your project and open your bash or command prompt
 git pull origin <branch name>
 git checkout <branch name>
 git branch-->it should point to new branch now
+now you have code of branch in your local.
+make changes in the branch
+git commit -a -m "enter comment" //doing add and commit in one go
+git push origin <branch remote name>  //note here that we are not directly pointing to master remote repo.
+
