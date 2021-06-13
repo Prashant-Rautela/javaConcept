@@ -7,5 +7,7 @@ public class InheritianceConcept {
 		
 	}
 	
-	
+	public void practiceInheritance() {
+		System.out.println("please practice java inheritance--");
+	}
 }
