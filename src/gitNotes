@@ -8,3 +8,11 @@ git add . --to staged your changes
 git commit -m "commit comment" --to commit your changes into local repo
 git push origin master //to commit changes into remote repo
 
+to cloning project into your local from remote
+create a folder in your local
+git clone <git remote url>
+
+to pull the changes from remote--
+one cloning is done.
+go to project path.
+git pull origin master
