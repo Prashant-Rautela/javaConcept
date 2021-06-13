@@ -1,0 +1,10 @@
+to merge local into remote
+
+
+create project in your local
+git init --to initialise your local repo
+git remote add origin <git repo url>
+git add . --to staged your changes
+git commit -m "commit comment" --to commit your changes into local repo
+git push origin master //to commit changes into remote repo
+
